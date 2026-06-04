@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: werewolfcjj的博客
 
-tagline: 博客
+tagline: 主要记录取证
 
 description: 记录做题过程
 
@@ -26,9 +26,6 @@ url: "https://werewolfcjj.github.io"
 
 github:
   username: werewolfcjj # change to your GitHub username
-
-twitter:
-  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
